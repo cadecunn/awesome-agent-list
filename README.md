@@ -37,7 +37,7 @@
 - [Agent communication & collaboration](#agent-communication--collaboration) (13)
 - [Agent services](#agent-services) (15)
 - [Personal & always-on agents](#personal--always-on-agents) (6)
-- [AI employees & digital coworkers](#ai-employees--digital-coworkers) (10)
+- [AI employees & digital coworkers](#ai-employees--digital-coworkers) (11)
 - [On-call & ops agents](#on-call--ops-agents) (7)
 - [Browser & computer-use agents](#browser--computer-use-agents) (6)
 - [Research & analyst agents](#research--analyst-agents) (7)
@@ -170,6 +170,7 @@
 - [Fin](https://www.intercom.com) - Intercom's AI support agent: it answers customer questions from your help content, resolves conversations end-to-end, and charges only when it resolves. · `human-handoff` `memory` `api-native` · [spec](https://www.agentlist.io/systems/fin)
 - [Harvey](https://www.harvey.ai) - The AI associate for legal work: drafting, review, diligence, and research grounded in legal corpora, deployed inside law firms and enterprise legal departments. · `citations` `web-research` `human-handoff` · [spec](https://www.agentlist.io/systems/harvey)
 - [Juicebox (PeopleGPT)](https://juicebox.ai) - The recruiting AI employee: it searches candidate pools in natural language, runs outbound outreach, and ranks talent against your rubric. · `web-research` `human-handoff` `api-native` · [spec](https://www.agentlist.io/systems/juicebox)
+- [Liaison](https://useliaison.com) - You, in digital form, working your business 24/7: it connects to the tools a small business already runs (inbox, calendar, CRM, books, field systems), keeps one memory across them, and works them overnight — follow-ups, schedule gaps, collections, the morning brief — asking before anything that moves money. · `memory` `human-handoff` `tool-calling` `api-native` `browser-ops`
 - [Lindy](https://www.lindy.ai) - The build-your-own-employee platform: no-code agents that handle email triage, scheduling, meeting notes, CRM updates, and custom back-office workflows. · `workflow-builder` `human-handoff` `tool-calling` `api-native` · [spec](https://www.agentlist.io/systems/lindy)
 - [Mercor](https://mercor.com) - The AI interviewer and talent marketplace: its agent screens candidates in structured video interviews and matches them to roles — and increasingly to AI-training gigs. · `human-handoff` `api-native` · [spec](https://www.agentlist.io/systems/mercor)
 - [Piper](https://www.qualified.com) - Qualified's inbound AI SDR: she greets and qualifies website visitors in chat, works target accounts, and routes or books meetings against your CRM. · `human-handoff` `web-research` `api-native` · [spec](https://www.agentlist.io/systems/piper)
